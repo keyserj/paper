@@ -170,31 +170,31 @@ It is considered a lack of leadership, intelligence and/or backbone to change on
 
 In order to appeal to a larger group, and to avoid risking the accusation of being a “waffler”, statements from politicians tend to be as abstract, unspecific and non-committal as possible, while still trying to strike an emotional chord. This kind of discourse avoids the difficult questions rather than facing them head-on.
 
-====1.3. The problems are too complex====
+====1.3.5 The problems are too complex====
 
 In fact, many of the policy issues that will be affected by the outcome of political debates and public votes are much too complex for any single individual to master. It would be absurd to expect an entire population to grasp these issues in the depth required. This is known as the problem of [https://en.wikipedia.org/wiki/Rational_ignorance Rational Ignorance]: if it takes more effort than is worth it to understand something well enough (to vote on it), people won’t do it. Thus, political discussions tend to resort to metaphors and proxy issues (such as the issue of gay marriage) as a substitute for meatier topics.
 
-====1.3.5 Horse trading====
+====1.3.6 Horse trading====
 
 There is a problem with the way legislation is designed and proposed. It is designed based on what the authors THINK will be passable, then goes through a round of horse-trading, in which items get slipped into the bill totally unrelated to the purpose of the legislation in order to “buy” the votes of specific representatives. In the end, decisions are made at least partially not on whether or not it is a good idea, but rather, that it is a “passable” idea.
 
-====1.3.6 Gaming the system====
+====1.3.7 Gaming the system====
 
 An important part of politics is also figuring out the best way to get legislation passed by avoiding proper due dilligence and the need to build consensus. Decisions may be rushed: either presented and rushed to vote before all the delegates have had a chance to read it, or rushed so that there can be a vote before the session ends, before vacation, or before dynamics change (elections).
 
 Then there are also the “at least we tried” bills: legislation proposed insincerely as a form of showing constituents that an attempt was made, without really reaching across the table to find some sort of middle ground.
 
-====1.3.7 Focus on the wrong things====
+====1.3.8 Focus on the wrong things====
 
-Politics very often focuses on the character of the candidate, rather than on the issues they support. While to some degree this is justified in that the character of a representative matters to the extent that voters much trust in them to make the right decisions over their term, it would be difficult to argue that voters have enough information to really predict how their representative will think and behave. Furthermore, discussions about their "character" often focus on less relevant issues, such as their romantic involvements, the way they shake hands, or the way they screamed on camera in an unfortunate moment.
+Politics very often focuses on the character of the candidate, rather than on the issues they support. While to some degree this is justified in that the character of a representative matters to the extent that voters must trust in them to make the right decisions over their term, it would be difficult to argue that voters have enough information to really predict how their representative will think and behave. Furthermore, discussions about their "character" often focus on less relevant issues, such as their romantic involvements, the way they shake hands, or the way they screamed on camera in an unfortunate moment.
 
 Also, legislation is often dressed up in such a way to be easy to publicize and gain acceptance, while hiding the details of its impact. Legislation is intentionally named with [https://en.wikipedia.org/wiki/Backronym bacronyms] that purport to represent its purpose, such as the [https://en.wikipedia.org/wiki/Patriot_Act USA PATRIOT Act] and the [https://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act JOBS Act], in the hopes that voters will read no further. Also, legislation will be given nicknames meant to deride its purpose in order to [https://www.nytimes.com/2017/02/07/upshot/one-third-dont-know-obamacare-and-affordable-care-act-are-the-same.html create voter bias].
 
-====1.3.8 The real debate is hidden====
+====1.3.9 The real debate is hidden====
 
 Much of what really happens in the process of policy decisions happens behind closed doors, off the public record. Whether it’s in conversations with lobbyists, political whips, large donors, personal family influence, conversations with a pastor, or something else, much of what goes into making up the mind of a representative happens out of sight, through personal contact. Once a decision has been made, a conscious effort is made to find a way to frame it to the public in such a way that it can be "justified". While this is actually a natural part of the process (imagine if you were a representative - wouldn’t you want feedback from family and friends?), as a side effect, it actually disempowers the remainder of a representative’s constituents.
 
-====1.3.9 Lack of local information====
+====1.3.10 Lack of local information====
 
 Especially for local elections and referendums, which should be more familiar with voters, there is ironically a severe lack of relevant information. This is unfortunate, as the more local an issue is, the more likely it is to impact voters. Unfortunately, there is no consistent resource for local voter information the way there is for national issues.
 
@@ -242,7 +242,7 @@ The problem that faces the majority of communication platforms online at present
 
 ====1.5.4 Fake accounts====
 
-Most implementations do not provide adequate protection against [https://github.com/DemocracyEarth/paper#263_Sybil_Attack "Sybil" accounts] (fake accounts). Any solution that includes voting (upvotes, scoring, etc.) is subject to "attacks" by networks by fake accounts attempting to sway the outcome of the debate. This has been a major enabler of propaganda campaigns, for such mundane purposes as [https://devumi.com/twitter-followers/ increasing the reputation] of public figures and thought leaders to actual [https://science.house.gov/sites/republicans.science.house.gov/files/documents/SST%20Staff%20Report%20-%20Russian%20Attempts%20to%20Influence%20U.S.%20Domestic%20Energy%20Markets%20by%20Exploiting%20Social%20Media%2003.01.18.pdf attempts by foreign governments] to sway elections.
+Most implementations do not provide adequate protection against [https://github.com/DemocracyEarth/paper#263_Sybil_Attack "Sybil" accounts] (fake accounts). Any solution that includes voting (upvotes, scoring, etc.) is subject to "attacks" by networks of fake accounts attempting to sway the outcome of the debate. This has been a major enabler of propaganda campaigns, for such mundane purposes as [https://devumi.com/twitter-followers/ increasing the reputation] of public figures and thought leaders to actual [https://science.house.gov/sites/republicans.science.house.gov/files/documents/SST%20Staff%20Report%20-%20Russian%20Attempts%20to%20Influence%20U.S.%20Domestic%20Energy%20Markets%20by%20Exploiting%20Social%20Media%2003.01.18.pdf attempts by foreign governments] to sway elections.
 
 In order to make it easy for new users to sign up, most platforms opt for very low requirements in terms of verification of new users. None to date, outside of official government agencies, and certain financial institutions with "Know Your Customer" (KYC) requirements go through any effort to certify that there is a one-to-one correspondence between user accounts and actual human beings. 
 
@@ -282,7 +282,7 @@ This lack of context impedes the reusability of claim. It can result in them bei
 
 ====1.5.11 No concept of generic vs. specific====
 
-It is very common to begin a debate with a very broad statement, such as "Illicite drugs should be legalized." When such a broad topic is debated in earnest, you will find that the discussion can range from one spectrum of the debate (e.g. all drugs vs. a specific illegal substance, such as heroine) to another (in which geographical locations, and under which conditions).
+It is very common to begin a debate with a very broad statement, such as "Illicit drugs should be legalized." When such a broad topic is debated in earnest, you will find that the discussion can range from one spectrum of the debate (e.g. all drugs vs. a specific illegal substance, such as heroine) to another (in which geographical locations, and under which conditions).
 
 It should become evident after some contact with generic debates that they are unresolvable without considering the issues within a specific context. The ideal outcome of such a discussion is not to find a definitive answer, but rather to uncover the criteria and conditions under which the claim would be true, and those in which it would be false. Unfortunately, solutions that we have analyzed so far do not provide any explicit support for navigating such a "debate space", and carrying conditional arguments or heuristics from one level of granularity to another.
 
@@ -352,11 +352,11 @@ We present here a list of fundamental principles that we believe are necessary t
 
 As has been discussed, the human species so far has been extremely inefficient in terms of our ability to accumulate knowledge. For millennia, the only option available was through the spoken word and collective memory of people. Tools have evolved for improving this process, beginning with painting and other works of art and symbolism, then moving on to the written word in various formats, and so on. Tools of mass communication, and instantaneous communication across large geographic divides have also evolved, to the point that in the current era, we have more information than we can possibly digest. While the process is still imperfect, it is clear that tools can significantly improve our ability to accumulate knowledge.
 
-There are currently nearly 8 billion people on this planet. There are so many topics that bear an importance to all of us, or at least very large groups of us: climate change, human rights, health care, ethics, economics, and on and on. The effort to convey information regarding any of these topics can be enormous, and often imprecise, and takes on the form of 8 million people repeating the same arguments to one another over and over again in the hope that this repetition will generate some form of consensus or common understanding.
+There are currently nearly 8 billion people on this planet. There are so many topics that bear an importance to all of us, or at least very large groups of us: climate change, human rights, health care, ethics, economics, and on and on. The effort to convey information regarding any of these topics can be enormous, and often imprecise, and takes on the form of 8 billion people repeating the same arguments to one another over and over again in the hope that this repetition will generate some form of consensus or common understanding.
 
 Imagine if each argument only had to be made once, for everyone. If you map these discussions into a single location, the repetition becomes clear. By eliminating this duplication, we can free up people to get quickly up to speed on the best information humans have to offer, and move on to add their own contributions.
 
-There are 8 million of us, and we are spending our time repeating what others already know. Instead, we must find ways to make this knowledge accumulate and grow.
+There are 8 billion of us, and we are spending our time repeating what others already know. Instead, we must find ways to make this knowledge accumulate and grow.
 
 ====2.2.2 Keep it constructive====
 
@@ -484,7 +484,7 @@ As a direct consequence of our principle of being completely trustworthy, it is 
 
 ====2.3.11 Be fully distributed====
 
-We recognize in Problems section of this document the risks associated with a debate platform that is owned and controlled by a single entity. The only solution we know to avoid these pitfalls is to therefore create one with decentralized ownership and control. Only then can we ensure that the platform may be free from accusations of bias, and that it can survive the Canonical Debate Lab and its individual members.
+We recognize in the Problems section of this document the risks associated with a debate platform that is owned and controlled by a single entity. The only solution we know to avoid these pitfalls is to therefore create one with decentralized ownership and control. Only then can we ensure that the platform may be free from accusations of bias, and that it can survive the Canonical Debate Lab and its individual members.
 
 ====2.3.12 Eliminate conflicts of interest====
 
@@ -597,7 +597,7 @@ We can solve this problem by making Claims ''canonical''. For each Claim, there 
 
 Although not a final design, we believe that the following attributes would be helpful to define for every Claim:
 
-* '''Unique ID''' - It is important to guarantee that each and every Claim can be referenced within an from outside of the system via a simple identifier not tied to the other changeable attributes.
+* '''Unique ID''' - It is important to guarantee that each and every Claim can be referenced within and from outside of the system via a simple identifier not tied to the other changeable attributes.
 * '''Title''' - Each Claim should have a brief explanation, easy to read and quick to digest. Ideally, this "title" should be enough for the average reader to understand what is being claimed at a glance. A more advanced implementation under consideration would be to allow multiple versions of the Title, based on how users wish to view the Claim ([[#3116-changing-perspectives|see below]]).
 * '''Description''' - A Description would be a more in-depth explanation of the Claim being made, which might include clarifications on the words used in the Title (although disambiguation should generally be handled by [[#321-context|Context]]), and any necessary background information to help readers understand why the Claim is being made. For the sake of expediency, Descriptions should be optional when creating a Claim.
 * '''References''' - Claims should support an optional set of external references (URLs, or "links") to supporting information. This will be especially useful in the case of Claims of evidence, such as the claim that there is a video which shows the occurrence of an event.
@@ -641,7 +641,7 @@ We therefore propose supporting multiple versions of the Title for a Claim. Here
 
 * '''Positive and negative assertions''' - Since each Claim has two sides, it makes sense to be able to state the Claim from either perspective. The Claim should therefore support two forms of Title: a positive statement (e.g. '''The Earth is flat''') and a negative version ('''The Earth is not flat''').
 * '''Inquisitive form''' - A more neutral approach to the Title of a Claim would be to state it as a question: '''Does God exist?'''. Again, it would be useful to support storing an inquistive version of the Claim Title for use in linking to and viewing the debate.
-* '''Variations in emotional "temperature"''' - It might be interesting to view other versions of a Claim Title according to the emotional impact that the title might contain, independent of the actual content of the debate itself. One of the main problems with a typical Argument Map, especially one that seeks to separate the arguments from the individuals making the claims, is that the resulting map can be logical to the point of alienating the common reader. Following the principle that [[#227-we-should-inspire-with-emotion-but-argue-with-reason|"We should inspire with emotion, but argue with reason"]], it might be "inspiring" to see a debate that says "Only an idiot would believe that the Earth is flat", at least at first. Certainly users would find it entertaining to play with the "tempurature level" of debates as they explore the content of the Canonical Debate.
+* '''Variations in emotional "temperature"''' - It might be interesting to view other versions of a Claim Title according to the emotional impact that the title might contain, independent of the actual content of the debate itself. One of the main problems with a typical Argument Map, especially one that seeks to separate the arguments from the individuals making the claims, is that the resulting map can be logical to the point of alienating the common reader. Following the principle that [[#227-we-should-inspire-with-emotion-but-argue-with-reason|"We should inspire with emotion, but argue with reason"]], it might be "inspiring" to see a debate that says "Only an idiot would believe that the Earth is flat", at least at first. Certainly users would find it entertaining to play with the "temperature level" of debates as they explore the content of the Canonical Debate.
 
 All of these potential variations imply that a single Title for the Claim might not be sufficient to cover every potential use. It would also be naive to assume that the first person to submit a Title would always choose the best way to phrase the proposition in a concise and clear manner on the first try. This implies that Titles should not only support multiple perspectives, but also support a process for proposing alternative versions of the same Title, and electing the most effective one along the same lines as the goal to [[#235-promote-the-best-arguments|Promote the best arguments]]. 
 
@@ -649,7 +649,7 @@ One approach would be to allow users to submit alternative Titles for each type 
 
 ====3.1.2 Argument====
 
-When a Claim is used in a debate to prove or disprove another Claim, we call this an Argument. This is a very important distinction from the non-canonical approach normally adopted for Argument Maps. In a standard Argument Map, arguments are their own standalone, separate entities. In the Canonical Debate, there is a unique Claim that may be used many times as an Argument in various debates. In this way, we can ensure that the accumulated knowledge (description, scores, and Arguements) related to that Claim are carried over into any debate in which the Claim is used.
+When a Claim is used in a debate to prove or disprove another Claim, we call this an Argument. This is a very important distinction from the non-canonical approach normally adopted for Argument Maps. In a standard Argument Map, arguments are their own standalone, separate entities. In the Canonical Debate, there is a unique Claim that may be used many times as an Argument in various debates. In this way, we can ensure that the accumulated knowledge (description, scores, and Arguments) related to that Claim are carried over into any debate in which the Claim is used.
 
 Arguments are generally made either in favor of a Claim or against it (although sometimes it can go either way - see below). There are a few different, but synonymous ways to describe which side of the debate an Argument supports:
 
@@ -865,7 +865,7 @@ There may very well be cases in which a Context element is needed, but there is 
 Context elements are simpler than Claims and Arguments, but still require some data in order to fulfill their purpose:
 
 * '''Unique ID''' - As with Claims, Contexts should not have duplicate entries representing the same concept.
-* '''Name''' - A Context element should have a an appropriate, and not necessarily unique, name.
+* '''Name''' - A Context element should have an appropriate, and not necessarily unique, name.
 * '''Definition''' - In the case of a Context without any external references, a definition would be required. Otherwise, the definition would be an optional summary to differentiate this item from other Contexts with similar names (for example, it would be useful to say that "Paris" is "A prince of Troy in Greek mythology" in order to differentiate that figure from one of the several cities in the world with the same name).
 * '''Knowledge Graph References''' - Given that there may be more than one potential reference entity in external knowledge graphs, each Context element should contain one external reference for each system which matches it. Each system has its own method of reference (for example, the Google Knowledge Graph uses an identifer like ''kg:/m/0dl567'' to represent one of its elements, whereas for Wikipedia, a URL might be the appropriate format), so each field should support the appropriate format.
 
@@ -908,7 +908,7 @@ The previous section gave a glimpse into the additional possibilities that a car
 
 * '''Navigation''' - Users can find related debates by navigating according to the relationships between Context elements as defined in external knowledge graphs.
 * '''Recommendations''' - The system can recommend debates to the user according to their interests, which may be defined by specific Context elements. It can also recommend Claims which may potentially be used as Arguments due to the similarity in Contexts between the potential Base Claim and the debate Claim. And, users can sign up to receive notifications for [[#313-request-for-information-rfi|RFIs]] attached to specific Context elements.
-* '''Prevention of duplicate Claims''' - As will be described in the section on [[#34_Curation|Curation]] below, one of the bigest challenges to keeping the Canonical Debate organized will be to prevent the creation of redundant Claims. The platform can provide a method to detect potentially duplicate entries by comparing the Context elements to those of other existing Claims, and require the user to check these similarities before approving the creation.
+* '''Prevention of duplicate Claims''' - As will be described in the section on [[#34_Curation|Curation]] below, one of the biggest challenges to keeping the Canonical Debate organized will be to prevent the creation of redundant Claims. The platform can provide a method to detect potentially duplicate entries by comparing the Context elements to those of other existing Claims, and require the user to check these similarities before approving the creation.
 * '''Claim hierarchies''' - As will be described in the section [[#371_Claim_Hierarchies|below]] there is an interesting relationship between similar Claims that can be explored and exploited by adding and removing Context elements one at a time.
 
 ====3.2.2 User====
@@ -955,7 +955,7 @@ The average user is what we would call a "Debater". These are the people that co
 
 ======3.2.2.2.2 Curator======
 
-Curators are a special type of user tasked with the responsibility of [[#2313-keep-it-organized|keeping the debates organized]], clean, constructive and canonical. These users may be draw from the general pool of Debaters as having shown a particular interest in maintaining the quality of the conversation, and having a good record of responsibility. The Curator role is very similar in this degree to the [https://en.wikipedia.org/wiki/Wikipedia:Administrators role of moderator (or "Administrator") on Wikipedia].
+Curators are a special type of user tasked with the responsibility of [[#2313-keep-it-organized|keeping the debates organized]], clean, constructive and canonical. These users may be drawn from the general pool of Debaters as having shown a particular interest in maintaining the quality of the conversation, and having a good record of responsibility. The Curator role is very similar in this degree to the [https://en.wikipedia.org/wiki/Wikipedia:Administrators role of moderator (or "Administrator") on Wikipedia].
 
 The Curator role is specifically concerned with maintaining the structure of the Canonical Debate. This includes removing duplicate Arguments or Claims, adding missing Context to existing Claims, regrouping similar Arguments under a single, more readable heading, moving misplaced Arguments to where they belong, and so on. This subject deserves a much more in-depth treatment, and so has been given [[#34-curation|a section all its own]] below.
 
@@ -970,7 +970,7 @@ For the sake of discussion, our examples here and in the sections below will rep
 * '''0% Truth''' - Indicates that a Claim is completely false; that there is no truth whatsoever behind the Claim.
 * '''50% Truth''' - Indicates an outcome in which the truth behind a Claim is suspect. Depending on the type of Claim, this can mean that the Claim is as likely to be true as it is to be false, or that half of the population believes the Claim while half do not, or that there is a 50% probability of the Claim being true (for example, if it refers to events that are unknowable, or in the future).
 * '''100% Truth''' - Indicates that a Claim is definitely true, or that everyone agrees with the Claim.
-* '''O% Relevance''' - Indicates that an Argument is totally irrelevant, or has no impact on the discussion whatsoever.
+* '''0% Relevance''' - Indicates that an Argument is totally irrelevant, or has no impact on the discussion whatsoever.
 * '''50% Relevance''' - With Relevance, this can have one of several meanings, or be a combination these. This could indicate that  people are divided as to whether or not the Argument is relevant. This could also mean that the Argument is relevant, but that it only somewhat impacts the discussion (that is, it's only "partially convincing").
 * '''100% Relevance''' - Indicates that an Argument is completely relevant, and on its own should be enough to decide if a Claim is true or false ''if it's underlying Claim is completely true''. That is, an Argument can be completely relevant and convincing, but still be based on a lie.
 * '''0% Strength''' - Indicates that an Argument should have absolutely no impact on the debate, either because it is based on a false Claim, or because it is based on an irrelevant Argument (or both).
